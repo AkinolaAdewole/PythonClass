@@ -1,3 +1,6 @@
+for number in range(5) :
+    print(number)
+
 num1 = range(5)
 for number in num1 :
     print(number)
